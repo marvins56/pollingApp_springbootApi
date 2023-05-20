@@ -1,4 +1,4 @@
-package com.example.pollingApp;
+package com.example.pollingApp.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
